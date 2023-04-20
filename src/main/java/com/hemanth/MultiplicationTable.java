@@ -6,7 +6,7 @@ public class MultiplicationTable {
         int i=0;
         for (i=1;i<=10;i++)
         {
-            System.out.println(String.format("%s * %s = %s",num, i,(num * i)));
+            System.out.println(String.format("%s * M%s = %s",num, i,(num * i)));
         }
     }
 }

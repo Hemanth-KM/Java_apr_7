@@ -20,7 +20,7 @@ public class ArrayExample {
         double average = (sum /(double) arr.length);
         System.out.println("Average =" + average);
 
-        String[] names = new String[]{"krish","Manoj","Geetha","Seetha","Sheela","Bala","Peare"};
+        String[] names = new String[]{"krish","Manoj","Geetha","Seeta","Sheela","Bala","Peare"};
         System.out.println(names.length);
 
         for(int i = names.length-1; i>=0 ; i--){
